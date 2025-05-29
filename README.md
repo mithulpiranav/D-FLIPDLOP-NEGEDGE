@@ -52,7 +52,7 @@ Developed by:Mithul Piranav PD RegisterNumber:212224050019
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
-![image](https://github.com/user-attachments/assets/0ab33158-eb59-4184-a1b6-d92a40bce621)
+![Image](https://github.com/user-attachments/assets/efdc8a0e-e2ea-476b-a8f6-b2a108c676a4)
 
 
 **RESULTS**
